@@ -11,8 +11,9 @@
  Muestra la ubicación del dispositivo de acuerdo al GPS
   </description>
  
- <author href="https://build.phonegap.com" email="Viri158971@gmail.com">
-  Viridiana Cortez Diaz 4H
+ <author href="https://build.phonegap.com" 
+email="viri158971@gmail.com">  
+        Viridiana Cortez Diaz 4H
   </author>
   
   <!--Personaliza la aplicación y plataforma-->
@@ -43,4 +44,5 @@
 	<icon src="res/android/mdpi.png"/>
 	
 	</widget>
+  
   
